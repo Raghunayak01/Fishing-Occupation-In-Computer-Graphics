@@ -78,4 +78,17 @@ Requirements analysis is critical for project development. Requirements must be 
 
 	Left mouse button to quit.
 
+
+
 ## OUTPUT/SCREENSHOTS
+
+
+![1](https://github.com/user-attachments/assets/62f24084-df3e-4465-9d59-e86daaebb07f)
+![2](https://github.com/user-attachments/assets/727890d0-de34-4571-8a42-ad238195fbcc)
+![3](https://github.com/user-attachments/assets/d53550dd-86c5-4c5e-ade0-96e6834f72ce)
+![4](https://github.com/user-attachments/assets/c5e7e6b5-81a7-43d0-925f-9b13ad5e099d)
+![5](https://github.com/user-attachments/assets/83879b89-ed48-4618-b51b-309103c06820)
+![6](https://github.com/user-attachments/assets/d904241b-058f-462b-9aeb-3b4dbacc57e3)
+![7](https://github.com/user-attachments/assets/1460ec2a-771f-4a77-996d-bfea38c0dab3)
+![8](https://github.com/user-attachments/assets/384e2ad9-2d83-4ff4-ba5f-60f9d299a071)
+
