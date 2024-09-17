@@ -82,13 +82,45 @@ Requirements analysis is critical for project development. Requirements must be 
 
 ## OUTPUT/SCREENSHOTS
 
-
+Initial Display screen 
 ![1](https://github.com/user-attachments/assets/62f24084-df3e-4465-9d59-e86daaebb07f)
+  Fig 1: The above output shows the initial display screen wherein the fisherman seated on the boat is yet to start moving from the bank. 
+
+
+
+
+Snapshot of the man moving forward
 ![2](https://github.com/user-attachments/assets/727890d0-de34-4571-8a42-ad238195fbcc)
-![3](https://github.com/user-attachments/assets/d53550dd-86c5-4c5e-ade0-96e6834f72ce)
+Fig 2: The above output shows the boat moving with the fisherman in the display1. 
+        Key ‘t’ is used for starting the boat and key‘s’ for stopping the boat. 
+
+
+        
+Snapshot when he doesn’t find any fishes
+ ![3](https://github.com/user-attachments/assets/d53550dd-86c5-4c5e-ade0-96e6834f72ce)
+ Fig 3: The above output shows that the fisherman doesn’t find any fishes. Key ’s’ is	used to stop the boat .Key ‘f’ is used to increase the speed of the boat. 
+
+ 
+Snapshot in which the man finds the fishes 
 ![4](https://github.com/user-attachments/assets/c5e7e6b5-81a7-43d0-925f-9b13ad5e099d)
+Fig 4: The output shows the boat moving in the forward direction and the presence of fishes.
+
+
+Snapshot in which the man is moving along with   the net and fishes  
 ![5](https://github.com/user-attachments/assets/83879b89-ed48-4618-b51b-309103c06820)
+Fig 5: The above output shows the fisherman is moving along with the net to the market .Key ‘t’ is used to start the boat and move forward.
+
+Snapshot in which the man applies the net 
 ![6](https://github.com/user-attachments/assets/d904241b-058f-462b-9aeb-3b4dbacc57e3)
+ Fig 6: The above output shows the fisherman applying net on the fishes after finding them .
+                    Key ‘s’ is used to stop the boat and then apply the net.  
+
+Snapshot when the man reaches bank with fishes in front of 	the market   		
 ![7](https://github.com/user-attachments/assets/1460ec2a-771f-4a77-996d-bfea38c0dab3)
+Fig 7: The above output shows that the man has reached the destination along with the fishes .He has reached the market in display4. 
+
+
+Snapshot of the man moving in reverse direction 
 ![8](https://github.com/user-attachments/assets/384e2ad9-2d83-4ff4-ba5f-60f9d299a071)
+Fig 6.8: The above output shows that the boat can move in reverse direction. Key ‘r’ is used to move the boat in reverse direction.
 
