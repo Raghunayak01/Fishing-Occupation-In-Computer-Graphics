@@ -40,16 +40,25 @@ Requirements analysis is critical for project development. Requirements must be 
 •	glut32.dll
 
 ## User Input:
+
    ## Control
+   
 	Press ‘f’ for moving at a faster pace.
+
 	Press ‘q’ to quit.
+
 	Press‘s’ to stop the boat.
+
 	Press‘t’ to start the boat.
+
 	Press ‘n’ to apply the net.
+
 	Press ‘r’ to go in reverse direction.
+
 	Press ‘c’ to move the fishes.
 
 ## Mouse Input
+
 	Left mouse button to quit.
 
 ## OUTPUT/SCREENSHOTS
